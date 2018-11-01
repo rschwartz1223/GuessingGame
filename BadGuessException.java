@@ -1,5 +1,4 @@
 /**
- * Assignment 10 - CISC 190
  * Robert Schwartz
  * @exception BadGuessException Exception for invalid guesses
  */
